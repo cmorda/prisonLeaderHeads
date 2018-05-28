@@ -25,16 +25,16 @@
 # 
 # -----------------------------------------
 force-update: false
-online-only: true
+online-only: false
 enable-commas: true
 all-time:
   sign-lines:
-  - '&c&m------------'
-  - '&a{name}'
-  - '&eLevel {amount}'
-  - '&c&m------------'
+  - '&4Excavation'
+  - '&1Rank: {rank}'
+  - '&0{name}'
+  - '&2Level: {amount}'
   update-interval: 30
-  menu-enabled: true
+  menu-enabled: false
   menu-command: /topexcavationlevel
   menu-size: 90
   menu-name: '&4Top Excavation Level Page {page}'
