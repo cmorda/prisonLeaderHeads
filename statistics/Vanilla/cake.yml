@@ -25,14 +25,14 @@
 # 
 # -----------------------------------------
 force-update: false
-online-only: true
+online-only: false
 enable-commas: true
 all-time:
   sign-lines:
-  - '&c&m------------'
-  - '&a{name}'
-  - '&e{amount} slices'
-  - '&c&m------------'
+  - '&4Cake Eaten'
+  - '&1Rank: {rank}'
+  - '&0{name}'
+  - '&2{amount}'
   update-interval: 30
   menu-enabled: true
   menu-command: /topcake
