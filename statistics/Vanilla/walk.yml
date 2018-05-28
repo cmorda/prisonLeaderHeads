@@ -32,7 +32,7 @@ all-time:
   - '&4Distance Walked'
   - '&1Rank: {rank}'
   - '&0{name}'
-  - '&2Level: {amount}'
+  - '&2{amount} blocks'
   update-interval: 30
   menu-enabled: false
   menu-command: /topwalk
