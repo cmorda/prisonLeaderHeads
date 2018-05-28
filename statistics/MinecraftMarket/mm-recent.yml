@@ -29,10 +29,10 @@ online-only: false
 enable-commas: true
 all-time:
   sign-lines:
-  - '&c{name}'
-  - '&b{package}'
-  - '&e{currency} {amount}'
-  - '&a{time}'
+  - '&2Recent Donor'
+  - '&0{name}'
+  - '&1{package}'
+  - '&4{currency} {amount}'
   update-interval: 30
   menu-enabled: true
   menu-command: /recentdonators
