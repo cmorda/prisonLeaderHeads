@@ -25,16 +25,16 @@
 # 
 # -----------------------------------------
 force-update: false
-online-only: true
+online-only: false
 enable-commas: true
 all-time:
   sign-lines:
-  - '&c&m------------'
-  - '&a{name}'
-  - '&e${amount}'
-  - '&c&m------------'
+  - '&4Balance'
+  - '&1Rank: {rank}'
+  - '&0{name}'
+  - '&2${amount}'
   update-interval: 30
-  menu-enabled: true
+  menu-enabled: false
   menu-command: /topbalances
   menu-size: 90
   menu-name: '&4Top Balances Page {page}'
