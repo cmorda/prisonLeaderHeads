@@ -32,7 +32,7 @@ all-time:
   - '&4Mob Kills'
   - '&1Rank: {rank}'
   - '&0{name}'
-  - '&2{amount} kills'
+  - '&1{amount} kills'
   update-interval: 30
   menu-enabled: true
   menu-command: /topmobkills
