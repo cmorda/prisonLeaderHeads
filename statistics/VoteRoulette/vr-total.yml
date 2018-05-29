@@ -32,7 +32,7 @@ all-time:
   - '&4Total Votes'
   - '&1Rank: {rank}'
   - '&0{name}'
-  - '&2{amount} votes'
+  - '&1{amount} votes'
   update-interval: 30
   menu-enabled: false
   menu-command: /topvoters
