@@ -32,7 +32,7 @@ all-time:
   - '&4Axes'
   - '&1Rank: {rank}'
   - '&0{name}'
-  - '&2Level: {amount}'
+  - '&1Level: {amount}'
   update-interval: 30
   menu-enabled: false
   menu-command: /topaxeslevel
