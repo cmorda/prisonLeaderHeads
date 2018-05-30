@@ -34,7 +34,7 @@ all-time:
   - '&0{name}'
   - '&1{amount} votes'
   update-interval: 30
-  menu-enabled: false
+  menu-enabled: true
   menu-command: /topvoters
   menu-size: 90
   menu-name: '&4Top Voters Page {page}'
