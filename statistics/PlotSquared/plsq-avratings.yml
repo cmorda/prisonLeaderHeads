@@ -25,14 +25,14 @@
 # 
 # -----------------------------------------
 force-update: false
-online-only: true
+online-only: false
 enable-commas: true
 all-time:
   sign-lines:
-  - '&c&m------------'
-  - '&a{name}'
-  - '&eRating {amount}'
-  - '&c&m------------'
+  - '&4Avg Plot Rating'
+  - '&1Rank: {rank}'
+  - '&0{name}'
+  - '&1{amount}/10'
   update-interval: 30
   menu-enabled: true
   menu-command: /topaverageratings
