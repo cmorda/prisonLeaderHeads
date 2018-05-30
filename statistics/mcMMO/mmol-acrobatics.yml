@@ -34,7 +34,7 @@ all-time:
   - '&0{name}'
   - '&1Level: {amount}'
   update-interval: 30
-  menu-enabled: false
+  menu-enabled: true
   menu-command: /topacrobaticslevel
   menu-size: 90
   menu-name: '&4Top Acrobatics Level Page {page}'
