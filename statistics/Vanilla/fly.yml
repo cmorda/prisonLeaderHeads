@@ -25,14 +25,14 @@
 # 
 # -----------------------------------------
 force-update: false
-online-only: true
+online-only: false
 enable-commas: true
 all-time:
   sign-lines:
-  - '&c&m------------'
-  - '&a{name}'
-  - '&e{amount} blocks'
-  - '&c&m------------'
+  - '&4Distance Flown'
+  - '&1Rank: {rank}'
+  - '&0{name}'
+  - '&1{amount} blocks'
   update-interval: 30
   menu-enabled: true
   menu-command: /topfly
