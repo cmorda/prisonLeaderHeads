@@ -40,7 +40,7 @@ money-format:
 # %d is the placeholder for the amount of days
 # %h is the placeholder for the amount of hours
 # %m is the placeholder for the amount of minutes
-time-format: "%d days, %h hours, %m minutes"
+time-format: "%d d, %h h, %m m"
 
 # Some servers run on machines that are not in the same timezone as the playerbase of the server
 # With this option you can set the timezone of all statistics and automatic rewards.
